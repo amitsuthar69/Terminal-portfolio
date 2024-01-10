@@ -18,7 +18,7 @@ const createBanner = (): string[] => {
     banner.push(eleToPush);
   });
   banner.push("<br>");
-  banner.push("Welcome to Manas's Shell");
+  banner.push("Welcome to Amit's Shell");
   banner.push(
     "Type <span class='command'>'help'</span> for a list of all available commands."
   );

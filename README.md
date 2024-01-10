@@ -7,7 +7,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-Create your own terminal Check out [manasraj-termial](https://manasraj-terminal.vercel.app/) for an example.
 
 ## Features
 * **[Tab]** for auto completion.
@@ -21,13 +20,13 @@ You can Configure your details in config.json file.
 
 ```json
 {
-  "title": "Manas's Terminal",
+  "title": "Amit's Terminal",
   "username": "visitor",
-  "hostname": "asimov",
+  "hostname": "amit",
   "social": {
-    "email": "dev.manas@protonmail.com",
-    "github": "root-Manas",
-    "linkedin": "manasraj-singh"
+    "email": "sutharamit707@gmail.com",
+    "github": "amitsuthar69",
+    "linkedin": "amitsuthar69"
   },
   "aboutGreeting": "Hello Mate.",
   "projects": [
@@ -52,7 +51,7 @@ You can Configure your details in config.json file.
 
 Clone the repository
 ```shell
-git clone https://github.com/root-Manas/Terminal-portfolio
+git clone https://github.com/amitsuthar69/Terminal-portfolio
 ```
 Go to the project directory
 ```shell

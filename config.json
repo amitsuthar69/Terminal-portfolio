@@ -9,37 +9,21 @@
     "   #     #######  #     #  #     #  ###  #     #  #     #  ####### "
   ],
   "title": "Termianl",
-  "username": "visitor",
-  "hostname": "asimov",
-  "password": "Manasraj",
+  "username": "console",
+  "hostname": "guest",
+  "password": "juicewrld999",
   "social": {
-    "email": "dev.manas@protonmail.com",
-    "github": "root-Manas",
-    "linkedin": "manasraj-singh"
+    "email": "sutharamit707@gmail.com",
+    "github": "amitsuthar69",
+    "linkedin": "amitsuthar69"
   },
-  "aboutGreeting": "Hi there fella, I am Manasraj Singh, a Third Year Engineering<br>Student majoring in Electronics & Telecommunication Engineering.<br> I am a Security researcher and a bounty hunter also the Head of <br> Outreach at GDSC TCET. Where I lead and manage a team of 10 individuals.<br>We host, collobrate and manage events and workshops for the community.<br>(sudo=Manasraj)",
+  "aboutGreeting": "Hi there fella, I am Amit Suthar. a Second Year Engineering<br>Student majoring in Artificial Intelligence & Machine Learning.<br> <br>(sudo=juicewrld999)",
 
   "projects": [
     [
-      "Tweecord",
-      "A Discord bot that uses twitter api to fetch and post latest tweets in your server ",
-      "https://github.com/root-Manas/Tweecord"
-    ],
-    [
-      "Personal Blog",
-      "Techical blog's from my CTF expereience.",
-      "https://novihack.hashnode.dev/"
-    ],
-    [
-      "Narrative(UD)",
-      "Narrative is a mobile-based social media app that revolutionizes the news and journalism industry.",
-      "https://github.com/Narrative-org/Readme"
-    ],
-
-    [
-      "HelixGaurd(UD)",
-      "A DNA-Based Media Encryption API tool, a state-of-the-art solution designed to fortify multimedia security.",
-      "https://github.com/HelixGaurd/Readme"
+      "handOver",
+      "A site where peeps from same college can exchange or sell their resources!",
+      "https://github.com/amitsuthar69/handOver"
     ]
   ],
   "colors": {
@@ -57,7 +41,7 @@
     },
     "link": {
       "text": "#B6AAEE",
-      "highlightColor": "#FFADE2",
+      "highlightColor": "#adf5ffcc",
       "highlightText": "#0C0623"
     },
     "commands": {
