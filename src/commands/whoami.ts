@@ -1,13 +1,13 @@
 const whoamiObj = {
-  "message" : [
+  message: [
     [
       "In the kaleidoscope of existence,",
-      "I am but a reflection questioning the enigma - "
+      "I am but a reflection questioning the enigma - ",
     ],
     [
       "Amidst cosmic whispers,",
       "I navigate the maze of self-discovery,",
-      "echoing the eternal refrain - "
+      "echoing the eternal refrain - ",
     ],
     [
       "In the symphony of life,",
@@ -22,13 +22,13 @@ const whoamiObj = {
     [
       "In the tapestry of reality,",
       "I am the thread of self-inquiry,",
-      "weaving through the eternal question - "
+      "weaving through the eternal question - ",
     ],
   ],
-}
+};
 
-export const createWhoami = () : string[] => {
-  const whoami : string[] = [];  
+export const createWhoami = (): string[] => {
+  const whoami: string[] = [];
   const r = Math.floor(Math.random() * whoamiObj.message.length);
   whoami.push("<br>");
 
@@ -41,5 +41,5 @@ export const createWhoami = () : string[] => {
 
   whoami.push("<br>");
 
-  return whoami
-}
+  return whoami;
+};

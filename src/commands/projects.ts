@@ -1,15 +1,15 @@
-import command from '../../config.json' assert {type: 'json'};
+import command from "../../config.json" assert { type: "json" };
 
-const createProject = () : string[] => {
+const createProject = (): string[] => {
   let string = "";
-  const projects : string[] = [];
+  const projects: string[] = [];
   const files = `${command.projects.length} File(s)`;
   const SPACE = "&nbsp;";
 
-  projects.push("<br>")
+  projects.push("<br>");
 
   command.projects.forEach((ele) => {
-    let link = `<a href="${ele[2]}" target="_blank">${ele[0]}</a>`
+    let link = `<a href="${ele[2]}" target="_blank">${ele[0]}</a>`;
     string += SPACE.repeat(2);
     string += link;
     let spaces = 17 - ele[0].length;
@@ -17,13 +17,13 @@ const createProject = () : string[] => {
     string += SPACE.repeat(spaces);
     string += ele[1];
     projects.push(string);
-    string = '';
+    string = "";
   });
 
   projects.push("<br>");
   projects.push(files);
   projects.push("<br>");
-  return projects
-}
+  return projects;
+};
 
-export const PROJECTS = createProject()
+export const PROJECTS = createProject();

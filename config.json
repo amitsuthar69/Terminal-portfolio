@@ -8,7 +8,7 @@
     "   #     #        #    #   #     #   #   #    ##  #     #  #       ",
     "   #     #######  #     #  #     #  ###  #     #  #     #  ####### "
   ],
-  "title":    "Termianl",
+  "title": "Termianl",
   "username": "visitor",
   "hostname": "asimov",
   "password": "Manasraj",
@@ -17,9 +17,9 @@
     "github": "root-Manas",
     "linkedin": "manasraj-singh"
   },
-"aboutGreeting": "Hi there fella, I am Manasraj Singh, a Third Year Engineering<br>Student majoring in Electronics & Telecommunication Engineering.<br> I am a Security researcher and a bounty hunter also the Head of <br> Outreach at GDSC TCET. Where I lead and manage a team of 10 individuals.<br>We host, collobrate and manage events and workshops for the community.<br>(sudo=Manasraj)",
-  
-"projects": [
+  "aboutGreeting": "Hi there fella, I am Manasraj Singh, a Third Year Engineering<br>Student majoring in Electronics & Telecommunication Engineering.<br> I am a Security researcher and a bounty hunter also the Head of <br> Outreach at GDSC TCET. Where I lead and manage a team of 10 individuals.<br>We host, collobrate and manage events and workshops for the community.<br>(sudo=Manasraj)",
+
+  "projects": [
     [
       "Tweecord",
       "A Discord bot that uses twitter api to fetch and post latest tweets in your server ",
@@ -41,7 +41,7 @@
       "A DNA-Based Media Encryption API tool, a state-of-the-art solution designed to fortify multimedia security.",
       "https://github.com/HelixGaurd/Readme"
     ]
-],
+  ],
   "colors": {
     "background": "#121e26",
     "banner": "#dce7f3",
